@@ -1,4 +1,4 @@
-Live demo[https://chatenginio-reactapp.netlify.app/]
+Chat app [Live demo](https://chatenginio-reactapp.netlify.app/)
 
 # Getting Started with Create React App
 
